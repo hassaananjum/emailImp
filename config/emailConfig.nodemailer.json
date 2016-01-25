@@ -1,0 +1,12 @@
+{
+	"serviceType":"nodemailer",
+	"config":{
+		"service":"gmail",
+		"auth": {
+			"user": "hassaananjum@gmail.com",
+			"pass": "ojssduiubfgowfsy"
+		},
+		"sender": "Hassaan Anjum",
+		"senderEmail": "hassaananjum@gmail.com"
+	}
+}
