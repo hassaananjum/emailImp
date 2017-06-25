@@ -1,0 +1,9 @@
+{
+	"serviceType": "mailgun",
+	"config":{
+		"apiKey": "key-eb5e72e6ff5aed9c84522dbf5e8213af",
+		"domain": "sandbox459806f942704b70a5022ea8c5ba4994.mailgun.org",
+		"sender": "Hassaan Anjum",
+		"senderEmail": "hassaananjum@gmail.com"
+	}
+}
