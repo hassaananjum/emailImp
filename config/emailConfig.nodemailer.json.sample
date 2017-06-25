@@ -1,0 +1,12 @@
+{
+	"serviceType":"nodemailer",
+	"config":{
+		"service":"gmail",
+		"auth": {
+			"user": "name@gmail.com",
+			"pass": "password"
+		},
+		"sender": "Name",
+		"senderEmail": "email@gmail.com"
+	}
+}
