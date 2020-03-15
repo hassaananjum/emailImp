@@ -14,7 +14,7 @@
     "jade": "~1.11.0",
     "jsonschema": "^1.0.2",
     "mailgun-js": "^0.7.7",
-    "morgan": "~1.6.1",
+    "morgan": "~1.9.1",
     "nodemailer": "^1.11.0",
     "nodemailer-smtp-transport": "^1.1.0",
     "serve-favicon": "~2.3.0"
